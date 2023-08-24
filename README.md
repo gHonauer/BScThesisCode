@@ -10,6 +10,6 @@ The python script however can automatically parse dimacs cnf files, such as the 
 These problems can manually be put into the folders `/3py/cnfTestFiles/sat/` and `/3py/cnfTestFiles/unsat/`.
 
 ### Chapter 4 Readme:
-These projects use .NET 7, so just opening up the project in visual studio (Windows/Mac only), or installing the SDK and then running `dotnet run` / `dotnet build` (Pretty much any 64bit platform) should suffice to get started.
+These projects use .NET 7, so just opening up the project in Microsoft Visual Studio (Windows/Mac only), or installing the .NET7 SDK and then running `dotnet run` / `dotnet build` (Pretty much any 64bit platform) should suffice to get started.
 The main project contains the solver and the test project contains unittests, some of which also perform the benchmarks.
-As before, the benchmark instances are not included, but they would go into `/4net/SatTests/CnfTestFiles/sat/` and `/4net/SatTests/CnfTestFiles/unsat/` as before.
+As before, the benchmark instances are not included, but they would go into `/4net/SatTests/CnfTestFiles/sat/` and `/4net/SatTests/CnfTestFiles/unsat/`.
